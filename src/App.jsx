@@ -12,7 +12,7 @@ function App() {
     <div class="h-full bg-gradient-to-br from-purple-100 to-blue-100 p-4" dir="rtl">
       <div class="max-w-6xl mx-auto h-full">
         <header class="flex justify-between items-center mb-8">
-          <h1 class="text-4xl font-bold text-purple-600">New App</h1>
+          <h1 class="text-4xl font-bold text-purple-600">تبادل المعلومات التقنية</h1>
           <a
             href="https://www.zapt.ai"
             target="_blank"
@@ -25,7 +25,6 @@ function App() {
         </header>
 
         <main id="main-content" tabIndex="-1" class="bg-white p-6 rounded-lg shadow-md mb-8">
-          <h2 class="text-2xl font-bold mb-4 text-purple-600 text-center">تبادل المعلومات التقنية</h2>
           <div class="space-y-6 text-center text-lg text-gray-800">
             <section aria-labelledby="telegram-channel">
               <h3 id="telegram-channel" class="font-semibold text-xl text-purple-600 mb-2">

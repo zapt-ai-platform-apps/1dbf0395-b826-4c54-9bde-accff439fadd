@@ -1,7 +1,7 @@
 {
-  "name": "new-app",
+  "name": "tech-info-exchange",
   "version": "1.0.0",
-  "description": "SolidJS app with Vite, Tailwind, and PWA support",
+  "description": "تطبيق لتسهيل تبادل المعلومات التقنية بين المستخدمين المكفوفين",
   "type": "module",
   "scripts": {
     "dev": "vite",

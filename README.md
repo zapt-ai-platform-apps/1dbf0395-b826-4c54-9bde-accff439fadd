@@ -1,91 +1,91 @@
-# New App
+# تبادل المعلومات التقنية
 
-**New App** is a professional platform designed to facilitate the exchange of technical information among blind users. The application provides easy access to our various channels and groups on Telegram, YouTube, and Facebook, allowing users to connect, share knowledge, and stay updated with the latest technical discussions.
+**تبادل المعلومات التقنية** هو تطبيق مهني مصمم لتسهيل تبادل المعلومات التقنية بين المستخدمين المكفوفين. يوفر التطبيق وصولاً سهلاً إلى قنواتنا ومجموعاتنا المختلفة على Telegram وYouTube وFacebook، مما يسمح للمستخدمين بالاتصال ومشاركة المعرفة والبقاء على اطلاع بأحدث المناقشات التقنية.
 
-## User Guide
+## دليل المستخدم
 
-### 1. Access the Application
+### 1. الوصول إلى التطبيق
 
-1. **Open the App**
+1. **افتح التطبيق**
 
-   - Launch the app on your device. No sign-in is required; all features are readily accessible.
+   - قم بتشغيل التطبيق على جهازك. لا يتطلب تسجيل دخول؛ جميع الميزات متاحة فورًا.
 
-### 2. Navigate the Home Page
+### 2. تصفح الصفحة الرئيسية
 
-2. **Explore the Home Page**
+2. **استكشف الصفحة الرئيسية**
 
-   - The home page, titled **"تبادل المعلومات التقنية"** (Technical Information Exchange), provides direct links to our platforms.
+   - توفر الصفحة الرئيسية، بعنوان **"تبادل المعلومات التقنية"**، روابط مباشرة إلى منصاتنا.
 
-### 3. Connect with Our Community
+### 3. التواصل مع مجتمعنا
 
-3. **Join Our Platforms**
+3. **انضم إلى منصاتنا**
 
-   - **Telegram Channel**
-     - **Description:** Join our official Telegram channel for announcements and updates.
-     - **Action:** Click the link labeled **"اضغط هنا للانضمام إلى القناة"** to join.
-   - **Telegram Group**
-     - **Description:** Participate in discussions and share information with other members.
-     - **Action:** Click the link labeled **"اضغط هنا للانضمام إلى المجموعة"** to join.
-   - **YouTube Channel**
-     - **Description:** Subscribe to our YouTube channel for tutorials and video content.
-     - **Action:** Click the link labeled **"اضغط هنا للاشتراك في القناة"** to subscribe.
-   - **Facebook Group**
-     - **Description:** Engage with our community on Facebook and exchange ideas.
-     - **Action:** Click the link labeled **"اضغط هنا للانضمام إلى المجموعة"** to join.
+   - **قناة Telegram**
+     - **الوصف:** انضم إلى قناتنا الرسمية على Telegram للإعلانات والتحديثات.
+     - **الإجراء:** اضغط على الرابط المسمى **"اضغط هنا للانضمام إلى القناة"** للانضمام.
+   - **مجموعة Telegram**
+     - **الوصف:** شارك في المناقشات وشارك المعلومات مع الأعضاء الآخرين.
+     - **الإجراء:** اضغط على الرابط المسمى **"اضغط هنا للانضمام إلى المجموعة"** للانضمام.
+   - **قناة YouTube**
+     - **الوصف:** اشترك في قناتنا على YouTube للحصول على دروس ومحتوى فيديو.
+     - **الإجراء:** اضغط على الرابط المسمى **"اضغط هنا للاشتراك في القناة"** للاشتراك.
+   - **مجموعة Facebook**
+     - **الوصف:** تفاعل مع مجتمعنا على Facebook وتبادل الأفكار.
+     - **الإجراء:** اضغط على الرابط المسمى **"اضغط هنا للانضمام إلى المجموعة"** للانضمام.
 
-### 4. Utilize Accessibility Features
+### 4. استخدام ميزات الوصول
 
-4. **Enhanced Accessibility**
+4. **تحسين الوصول**
 
-   - The app is designed with accessibility in mind, offering:
-     - **Screen Reader Compatibility:** All elements are labeled for screen readers.
-     - **Keyboard Navigation:** Navigate the app using keyboard shortcuts.
-     - **High Contrast Mode:** Clear text and interactive elements for better visibility.
+   - تم تصميم التطبيق مع مراعاة إمكانية الوصول، ويقدم:
+     - **التوافق مع برامج قراءة الشاشة:** جميع العناصر موسومة لبرامج قراءة الشاشة.
+     - **التنقل عبر لوحة المفاتيح:** تنقل في التطبيق باستخدام اختصارات لوحة المفاتيح.
+     - **وضع التباين العالي:** نص واضح وعناصر تفاعلية لرؤية أفضل.
 
-## Features
+## الميزات
 
-- **Professional Design**
+- **تصميم مهني**
 
-  - A clean and user-friendly interface optimized for all users.
+  - واجهة نظيفة وسهلة الاستخدام ومحسنة لجميع المستخدمين.
 
-- **No Sign-In Required**
+- **لا يتطلب تسجيل دخول**
 
-  - Immediate access without the need for authentication.
+  - وصول فوري دون الحاجة إلى المصادقة.
 
-- **Accessible Design**
+- **تصميم متاح**
 
-  - Tailored for blind users with enhanced accessibility features.
+  - مخصص للمستخدمين المكفوفين مع ميزات وصول محسنة.
 
-- **Multi-Language Support**
+- **دعم متعدد اللغات**
 
-  - The app interface is available in Arabic.
+  - واجهة التطبيق متاحة باللغة العربية.
 
-- **Direct Platform Access**
+- **وصول مباشر إلى المنصات**
 
-  - Quick links to our social media platforms.
+  - روابط سريعة إلى منصات التواصل الاجتماعي الخاصة بنا.
 
-- **Responsive Layout**
+- **تخطيط متجاوب**
 
-  - Optimized for various screen sizes and devices.
+  - محسن لمختلف أحجام الشاشات والأجهزة.
 
-## Learn More About ZAPT
+## تعرف على المزيد عن ZAPT
 
-- Visit [ZAPT](https://www.zapt.ai) to learn more about the technology behind our app.
+- قم بزيارة [ZAPT](https://www.zapt.ai) لتعرف المزيد عن التكنولوجيا وراء تطبيقنا.
 
-## External API Services
+## خدمات API الخارجية
 
 - **Progressier**
 
-  - Adds Progressive Web App (PWA) support for offline access and a native app experience.
+  - يضيف دعم تطبيقات الويب التقدمية (PWA) للوصول دون اتصال وتجربة تطبيقات أصلية.
 
 - **Sentry Error Logging**
 
-  - Monitors app performance and logs errors to improve stability.
+  - يراقب أداء التطبيق ويسجل الأخطاء لتحسين الاستقرار.
 
-## Environment Variables
+## المتغيرات البيئية
 
-Ensure the following environment variables are set in your deployment environment:
+تأكد من تعيين المتغيرات البيئية التالية في بيئة النشر الخاصة بك:
 
-- `VITE_PUBLIC_APP_ID`: Your ZAPT app ID.
-- `VITE_PUBLIC_SENTRY_DSN`: Your Sentry DSN for error logging.
-- `VITE_PUBLIC_APP_ENV`: The environment (`production`, `development`, etc.).
+- `VITE_PUBLIC_APP_ID`: معرف تطبيق ZAPT الخاص بك.
+- `VITE_PUBLIC_SENTRY_DSN`: DSN الخاص بـ Sentry لتسجيل الأخطاء.
+- `VITE_PUBLIC_APP_ENV`: البيئة (`production`, `development`, إلخ).
