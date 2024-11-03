@@ -1,78 +1,91 @@
 # New App
 
-This is **New App**, an application that allows users to access our technical information sharing platforms. Users can connect with our channels and groups on Telegram, our YouTube channel, and our Facebook group directly through the app.
+**New App** is a professional platform designed to facilitate the exchange of technical information among blind users. The application provides easy access to our various channels and groups on Telegram, YouTube, and Facebook, allowing users to connect, share knowledge, and stay updated with the latest technical discussions.
 
-## Usage Steps
+## User Guide
 
-### 1. Access the App
+### 1. Access the Application
 
-**Steps:**
+1. **Open the App**
 
-1. **Open the App:**
+   - Launch the app on your device. No sign-in is required; all features are readily accessible.
 
-   - The user opens the app on their device.
-   - No sign-in is required to access the app's features.
+### 2. Navigate the Home Page
 
-2. **View Communication Links:**
+2. **Explore the Home Page**
 
-   - On the home page, the user sees a section titled "تبادل المعلومات التقنية" (Technical Information Exchange) containing labeled links to our platforms.
+   - The home page, titled **"تبادل المعلومات التقنية"** (Technical Information Exchange), provides direct links to our platforms.
 
-3. **Navigate to the Desired Platform:**
+### 3. Connect with Our Community
 
-   - The user can click on any of the available links to navigate to our channels and groups:
-     - **Our Telegram Channel**
-       - Click the link labeled **"اضغط هنا للانضمام إلى القناة"** to visit our Telegram channel.
-     - **Our Telegram Group**
-       - Click the link labeled **"اضغط هنا للانضمام إلى المجموعة"** to join our Telegram group.
-     - **Our YouTube Channel**
-       - Click the link labeled **"اضغط هنا للاشتراك في القناة"** to subscribe to our YouTube channel.
-     - **Our Facebook Group**
-       - Click the link labeled **"اضغط هنا للانضمام إلى المجموعة"** to join our Facebook group.
+3. **Join Our Platforms**
 
-4. **Interact with Platforms:**
+   - **Telegram Channel**
+     - **Description:** Join our official Telegram channel for announcements and updates.
+     - **Action:** Click the link labeled **"اضغط هنا للانضمام إلى القناة"** to join.
+   - **Telegram Group**
+     - **Description:** Participate in discussions and share information with other members.
+     - **Action:** Click the link labeled **"اضغط هنا للانضمام إلى المجموعة"** to join.
+   - **YouTube Channel**
+     - **Description:** Subscribe to our YouTube channel for tutorials and video content.
+     - **Action:** Click the link labeled **"اضغط هنا للاشتراك في القناة"** to subscribe.
+   - **Facebook Group**
+     - **Description:** Engage with our community on Facebook and exchange ideas.
+     - **Action:** Click the link labeled **"اضغط هنا للانضمام إلى المجموعة"** to join.
 
-   - After clicking the link, the user is directed to the selected platform where they can subscribe, join, or interact as desired.
+### 4. Utilize Accessibility Features
+
+4. **Enhanced Accessibility**
+
+   - The app is designed with accessibility in mind, offering:
+     - **Screen Reader Compatibility:** All elements are labeled for screen readers.
+     - **Keyboard Navigation:** Navigate the app using keyboard shortcuts.
+     - **High Contrast Mode:** Clear text and interactive elements for better visibility.
 
 ## Features
 
-- **No Sign-In Required:**
+- **Professional Design**
 
-  - Users can access all features without the need to log in.
+  - A clean and user-friendly interface optimized for all users.
 
-- **Multi-language Interface:**
+- **No Sign-In Required**
 
-  - The app supports Arabic to suit our main audience.
+  - Immediate access without the need for authentication.
 
-- **Direct Access:**
+- **Accessible Design**
 
-  - Easy navigation to our social media platforms with labeled links for seamless information exchange.
+  - Tailored for blind users with enhanced accessibility features.
 
-- **Responsive Design:**
+- **Multi-Language Support**
 
-  - The app is designed to work smoothly on different screen sizes and devices.
+  - The app interface is available in Arabic.
 
-## Note
+- **Direct Platform Access**
 
-- **Learn More About ZAPT:**
+  - Quick links to our social media platforms.
 
-  - You can learn more about ZAPT by visiting [our website](https://www.zapt.ai).
+- **Responsive Layout**
+
+  - Optimized for various screen sizes and devices.
+
+## Learn More About ZAPT
+
+- Visit [ZAPT](https://www.zapt.ai) to learn more about the technology behind our app.
 
 ## External API Services
 
-- **Progressier:**
+- **Progressier**
 
-  - Used for adding Progressive Web App (PWA) support.
+  - Adds Progressive Web App (PWA) support for offline access and a native app experience.
 
-- **Sentry Error Logging:**
+- **Sentry Error Logging**
 
-  - Used for monitoring and error tracking to improve app stability.
+  - Monitors app performance and logs errors to improve stability.
 
 ## Environment Variables
 
-The following environment variables are required:
+Ensure the following environment variables are set in your deployment environment:
 
 - `VITE_PUBLIC_APP_ID`: Your ZAPT app ID.
 - `VITE_PUBLIC_SENTRY_DSN`: Your Sentry DSN for error logging.
-- `VITE_PUBLIC_APP_ENV`: The environment (e.g., 'production', 'development').
-
-Please ensure these variables are set in your deployment environment.
+- `VITE_PUBLIC_APP_ENV`: The environment (`production`, `development`, etc.).
