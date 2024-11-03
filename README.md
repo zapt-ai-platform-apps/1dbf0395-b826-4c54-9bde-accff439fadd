@@ -19,25 +19,21 @@ This is **New App**, an application that allows users to access our technical in
 
 3. **Navigate to the Desired Platform:**
 
-   - The user can click on any of the labeled links to navigate to our channels and groups:
-     - **Join our Telegram Channel**
-       - By clicking **"انضم إلى قناتنا على Telegram"**, the user is redirected to our Telegram channel.
-     - **Join our Telegram Group**
-       - By clicking **"انضم إلى مجموعتنا على Telegram"**, the user is redirected to our Telegram group.
-     - **Subscribe to our YouTube Channel**
-       - By clicking **"اشترك في قناتنا على YouTube"**, the user is redirected to our YouTube channel.
-     - **Join our Facebook Group**
-       - By clicking **"انضم إلى مجموعتنا على Facebook"**, the user is redirected to our Facebook group.
+   - The user can click on any of the available links to navigate to our channels and groups:
+     - **Our Telegram Channel**
+       - Click the link labeled **"اضغط هنا للانضمام إلى القناة"** to visit our Telegram channel.
+     - **Our Telegram Group**
+       - Click the link labeled **"اضغط هنا للانضمام إلى المجموعة"** to join our Telegram group.
+     - **Our YouTube Channel**
+       - Click the link labeled **"اضغط هنا للاشتراك في القناة"** to subscribe to our YouTube channel.
+     - **Our Facebook Group**
+       - Click the link labeled **"اضغط هنا للانضمام إلى المجموعة"** to join our Facebook group.
 
 4. **Interact with Platforms:**
 
    - After clicking the link, the user is directed to the selected platform where they can subscribe, join, or interact as desired.
 
 ## Features
-
-- **Labeled Links:**
-
-  - Links are now labeled for a better user experience, making navigation more intuitive.
 
 - **No Sign-In Required:**
 
@@ -49,7 +45,7 @@ This is **New App**, an application that allows users to access our technical in
 
 - **Direct Access:**
 
-  - Easy navigation to our social media platforms for seamless information exchange.
+  - Easy navigation to our social media platforms with labeled links for seamless information exchange.
 
 - **Responsive Design:**
 

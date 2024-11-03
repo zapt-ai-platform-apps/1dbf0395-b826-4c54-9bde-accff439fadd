@@ -3,7 +3,7 @@ import { createEvent } from './supabaseClient';
 
 function App() {
   return (
-    <div class="min-h-screen bg-gradient-to-br from-purple-100 to-blue-100 p-4 text-gray-800" dir="rtl">
+    <div class="min-h-screen bg-gradient-to-br from-purple-100 to-blue-100 p-4" dir="rtl">
       <div class="max-w-6xl mx-auto h-full">
         <div class="flex justify-between items-center mb-8">
           <h1 class="text-4xl font-bold text-purple-600">New App</h1>
@@ -19,7 +19,7 @@ function App() {
 
         <div class="bg-white p-6 rounded-lg shadow-md mb-8">
           <h2 class="text-2xl font-bold mb-4 text-purple-600 text-center">تبادل المعلومات التقنية</h2>
-          <div class="space-y-6 text-center text-lg">
+          <div class="space-y-6 text-center text-lg text-gray-800">
             <p>
               قناة تبادل المعلومات التقنية على Telegram
               <br />
@@ -29,7 +29,7 @@ function App() {
                 rel="noopener noreferrer"
                 class="text-blue-500 hover:underline cursor-pointer"
               >
-                انضم إلى قناتنا على Telegram
+                اضغط هنا للانضمام إلى القناة
               </a>
             </p>
 
@@ -42,7 +42,7 @@ function App() {
                 rel="noopener noreferrer"
                 class="text-blue-500 hover:underline cursor-pointer"
               >
-                انضم إلى مجموعتنا على Telegram
+                اضغط هنا للانضمام إلى المجموعة
               </a>
             </p>
 
@@ -55,7 +55,7 @@ function App() {
                 rel="noopener noreferrer"
                 class="text-blue-500 hover:underline cursor-pointer"
               >
-                اشترك في قناتنا على YouTube
+                اضغط هنا للاشتراك في القناة
               </a>
             </p>
 
@@ -68,7 +68,7 @@ function App() {
                 rel="noopener noreferrer"
                 class="text-blue-500 hover:underline cursor-pointer"
               >
-                انضم إلى مجموعتنا على Facebook
+                اضغط هنا للانضمام إلى المجموعة
               </a>
             </p>
           </div>
