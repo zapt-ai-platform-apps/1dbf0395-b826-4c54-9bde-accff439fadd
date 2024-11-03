@@ -1,70 +1,86 @@
-# واجهة تطبيق تبادل المعلومات التقنية
+# New App
 
-هذا التطبيق، **واجهة تطبيق تبادل المعلومات التقنية**، يتيح للمستخدمين الوصول إلى منصات تبادل المعلومات التقنية الخاصة بنا. يمكن للمستخدمين التواصل مع قنواتنا ومجموعاتنا على Telegram، وقناتنا على YouTube، ومجموعتنا على Facebook مباشرة من خلال التطبيق.
+This is **New App**, an application that allows users to access our technical information sharing platforms. Users can connect with our channels and groups on Telegram, our YouTube channel, and our Facebook group directly through the app.
 
-## خطوات الاستخدام
+## Usage Steps
 
-### 1. تسجيل الدخول
+### 1. Sign In
 
-**الخطوات:**
+**Steps:**
 
-1. **فتح التطبيق:**
+1. **Open the App:**
 
-   - يقوم المستخدم بفتح التطبيق على جهازه.
+   - The user opens the app on their device.
 
-2. **تسجيل الدخول باستخدام ZAPT:**
+2. **Sign in with ZAPT:**
 
-   - يظهر للمستخدم خيار "Sign in with ZAPT".
-   - يمكن للمستخدم تسجيل الدخول باستخدام البريد الإلكتروني أو عبر الشبكات الاجتماعية مثل Google، Facebook، أو Apple.
+   - The user sees the option "Sign in with ZAPT".
+   - The user can sign in using their email or via social networks like Google, Facebook, or Apple.
 
-3. **الوصول إلى الصفحة الرئيسية:**
+3. **Access the Home Page:**
 
-   - بعد تسجيل الدخول بنجاح، يتم توجيه المستخدم إلى الصفحة الرئيسية للتطبيق.
+   - After successful sign-in, the user is directed to the app's home page.
 
-### 2. الوصول إلى روابط منصات التواصل الاجتماعي
+### 2. Access Social Media Links
 
-**الخطوات:**
+**Steps:**
 
-1. **عرض روابط التواصل:**
+1. **View Communication Links:**
 
-   - على الصفحة الرئيسية، يرى المستخدم قسمًا بعنوان "تبادل المعلومات التقنية" يحتوي على روابط منصاتنا.
+   - On the home page, the user sees a section titled "Technical Information Exchange" containing links to our platforms.
 
-2. **التنقل إلى المنصة المطلوبة:**
+2. **Navigate to the Desired Platform:**
 
-   - يمكن للمستخدم النقر على أي من الروابط المتاحة للانتقال إلى القنوات والمجموعات الخاصة بنا:
-     - **قناة تبادل المعلومات التقنية على Telegram**
-       - [زيارة قناتنا على Telegram](https://t.me/echangetec)
-     - **مجموعتنا على Telegram**
-       - [الانضمام إلى مجموعتنا على Telegram](https://t.me/Youness_be)
-     - **قناتنا على YouTube تبادل المعلومات التقنية**
-       - [الاشتراك في قناتنا على YouTube](https://www.youtube.com/@echangetec)
-     - **مجموعتنا على Facebook**
-       - [الانضمام إلى مجموعتنا على Facebook](https://www.facebook.com/groups/1802881706649541/?ref=share)
+   - The user can click on any of the available links to navigate to our channels and groups:
+     - **Our Telegram Channel**
+       - [Visit our Telegram channel](https://t.me/echangetec)
+     - **Our Telegram Group**
+       - [Join our Telegram group](https://t.me/Youness_be)
+     - **Our YouTube Channel**
+       - [Subscribe to our YouTube channel](https://www.youtube.com/@echangetec)
+     - **Our Facebook Group**
+       - [Join our Facebook group](https://www.facebook.com/groups/1802881706649541/?ref=share)
 
-3. **التفاعل مع المنصات:**
+3. **Interact with Platforms:**
 
-   - بعد النقر على الرابط، يُوجه المستخدم إلى المنصة المختارة حيث يمكنه الاشتراك، الانضمام، أو التفاعل حسب الرغبة.
+   - After clicking the link, the user is directed to the selected platform where they can subscribe, join, or interact as desired.
 
-## المميزات
+## Features
 
-- **واجهة متعددة اللغات:**
+- **Multi-language Interface:**
 
-  - يدعم التطبيق اللغة العربية لتناسب جمهورنا الأساسي.
+  - The app supports Arabic to suit our main audience.
 
-- **وصول مباشر:**
+- **Direct Access:**
 
-  - سهولة التنقل إلى منصات التواصل الاجتماعي الخاصة بنا لتبادل المعلومات بسلاسة.
+  - Easy navigation to our social media platforms for seamless information exchange.
 
-- **تصميم متجاوب:**
+- **Responsive Design:**
 
-  - تم تصميم التطبيق ليعمل بشكل سلس على مختلف أحجام الشاشات والأجهزة.
+  - The app is designed to work smoothly on different screen sizes and devices.
 
-## ملاحظة
+## Note
 
-- **تسجيل الدخول الآمن:**
+- **Secure Sign-In:**
 
-  - يتم استخدام Supabase للمصادقة، مما يوفر تجربة تسجيل دخول آمنة وسهلة.
+  - Supabase is used for authentication, providing a secure and easy sign-in experience.
 
-- **تعرف على المزيد عن ZAPT:**
+- **Learn More About ZAPT:**
 
-  - يمكنك معرفة المزيد عن ZAPT من خلال زيارة [موقعنا](https://www.zapt.ai).
+  - You can learn more about ZAPT by visiting [our website](https://www.zapt.ai).
+
+## External API Services
+
+- **Supabase Auth:**
+
+  - Used for secure user authentication.
+
+## Environment Variables
+
+The following environment variables are required:
+
+- `VITE_PUBLIC_APP_ID`: Your ZAPT app ID.
+- `VITE_PUBLIC_SENTRY_DSN`: Your Sentry DSN for error logging.
+- `VITE_PUBLIC_APP_ENV`: The environment (e.g., 'production', 'development').
+
+Please ensure these variables are set in your deployment environment.
