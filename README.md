@@ -27,7 +27,7 @@ This is **New App**, an application that allows users to access our technical in
 
 1. **View Communication Links:**
 
-   - On the home page, the user sees a section titled "Technical Information Exchange" containing links to our platforms.
+   - On the home page, the user sees a section titled "تبادل المعلومات التقنية" (Technical Information Exchange) containing links to our platforms.
 
 2. **Navigate to the Desired Platform:**
 

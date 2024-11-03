@@ -8,11 +8,9 @@ function App() {
   const [currentPage, setCurrentPage] = createSignal('login');
 
   const checkUserSignedIn = async () => {
-    const {
-      data: { user },
-    } = await supabase.auth.getUser();
-    if (user) {
-      setUser(user);
+    const { data } = await supabase.auth.getUser();
+    if (data?.user) {
+      setUser(data.user);
       setCurrentPage('homePage');
     }
   };
@@ -20,7 +18,7 @@ function App() {
   onMount(checkUserSignedIn);
 
   createEffect(() => {
-    const { data: authListener } = supabase.auth.onAuthStateChange((_, session) => {
+    const authListener = supabase.auth.onAuthStateChange((event, session) => {
       if (session?.user) {
         setUser(session.user);
         setCurrentPage('homePage');
@@ -31,7 +29,7 @@ function App() {
     });
 
     return () => {
-      authListener.unsubscribe();
+      authListener?.unsubscribe();
     };
   });
 
