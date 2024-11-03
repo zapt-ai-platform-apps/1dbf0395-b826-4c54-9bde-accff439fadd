@@ -1,7 +1,7 @@
 {
   "name": "new-app",
   "version": "1.0.0",
-  "description": "SolidJS app with Vite, Tailwind, and Supabase Auth",
+  "description": "SolidJS app with Vite, Tailwind, and PWA support",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,8 +10,6 @@
   },
   "dependencies": {
     "solid-js": "^1.8.22",
-    "@supabase/auth-ui-shared": "^0.1.8",
-    "@supabase/auth-ui-solid": "^0.3.8",
     "@zapt/zapt-js": "^1.0.5",
     "solid-markdown": "^2.0.13",
     "@sentry/browser": "^8.35.0"

@@ -4,32 +4,20 @@ This is **New App**, an application that allows users to access our technical in
 
 ## Usage Steps
 
-### 1. Sign In
+### 1. Access the App
 
 **Steps:**
 
 1. **Open the App:**
 
    - The user opens the app on their device.
+   - No sign-in is required to access the app's features.
 
-2. **Sign in with ZAPT:**
-
-   - The user sees the option "Sign in with ZAPT".
-   - The user can sign in using their email or via social networks like Google, Facebook, or Apple.
-
-3. **Access the Home Page:**
-
-   - After successful sign-in, the user is directed to the app's home page.
-
-### 2. Access Social Media Links
-
-**Steps:**
-
-1. **View Communication Links:**
+2. **View Communication Links:**
 
    - On the home page, the user sees a section titled "تبادل المعلومات التقنية" (Technical Information Exchange) containing links to our platforms.
 
-2. **Navigate to the Desired Platform:**
+3. **Navigate to the Desired Platform:**
 
    - The user can click on any of the available links to navigate to our channels and groups:
      - **Our Telegram Channel**
@@ -41,11 +29,15 @@ This is **New App**, an application that allows users to access our technical in
      - **Our Facebook Group**
        - [Join our Facebook group](https://www.facebook.com/groups/1802881706649541/?ref=share)
 
-3. **Interact with Platforms:**
+4. **Interact with Platforms:**
 
    - After clicking the link, the user is directed to the selected platform where they can subscribe, join, or interact as desired.
 
 ## Features
+
+- **No Sign-In Required:**
+
+  - Users can access all features without the need to log in.
 
 - **Multi-language Interface:**
 
@@ -61,19 +53,19 @@ This is **New App**, an application that allows users to access our technical in
 
 ## Note
 
-- **Secure Sign-In:**
-
-  - Supabase is used for authentication, providing a secure and easy sign-in experience.
-
 - **Learn More About ZAPT:**
 
   - You can learn more about ZAPT by visiting [our website](https://www.zapt.ai).
 
 ## External API Services
 
-- **Supabase Auth:**
+- **Progressier:**
 
-  - Used for secure user authentication.
+  - Used for adding Progressive Web App (PWA) support.
+
+- **Sentry Error Logging:**
+
+  - Used for monitoring and error tracking to improve app stability.
 
 ## Environment Variables
 
