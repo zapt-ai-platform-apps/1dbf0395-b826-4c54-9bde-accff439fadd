@@ -3,7 +3,7 @@ import { createEvent } from './supabaseClient';
 
 function App() {
   return (
-    <div class="min-h-screen bg-gradient-to-br from-purple-100 to-blue-100 p-4" dir="rtl">
+    <div class="min-h-screen bg-gradient-to-br from-purple-100 to-blue-100 p-4 text-gray-800" dir="rtl">
       <div class="max-w-6xl mx-auto h-full">
         <div class="flex justify-between items-center mb-8">
           <h1 class="text-4xl font-bold text-purple-600">New App</h1>
@@ -19,7 +19,7 @@ function App() {
 
         <div class="bg-white p-6 rounded-lg shadow-md mb-8">
           <h2 class="text-2xl font-bold mb-4 text-purple-600 text-center">تبادل المعلومات التقنية</h2>
-          <div class="space-y-6 text-center text-lg text-gray-800">
+          <div class="space-y-6 text-center text-lg">
             <p>
               قناة تبادل المعلومات التقنية على Telegram
               <br />
@@ -27,9 +27,9 @@ function App() {
                 href="https://t.me/echangetec"
                 target="_blank"
                 rel="noopener noreferrer"
-                class="text-blue-500 hover:underline"
+                class="text-blue-500 hover:underline cursor-pointer"
               >
-                https://t.me/echangetec
+                انضم إلى قناتنا على Telegram
               </a>
             </p>
 
@@ -40,9 +40,9 @@ function App() {
                 href="https://t.me/Youness_be"
                 target="_blank"
                 rel="noopener noreferrer"
-                class="text-blue-500 hover:underline"
+                class="text-blue-500 hover:underline cursor-pointer"
               >
-                https://t.me/Youness_be
+                انضم إلى مجموعتنا على Telegram
               </a>
             </p>
 
@@ -53,9 +53,9 @@ function App() {
                 href="https://www.youtube.com/@echangetec"
                 target="_blank"
                 rel="noopener noreferrer"
-                class="text-blue-500 hover:underline"
+                class="text-blue-500 hover:underline cursor-pointer"
               >
-                https://www.youtube.com/@echangetec
+                اشترك في قناتنا على YouTube
               </a>
             </p>
 
@@ -66,9 +66,9 @@ function App() {
                 href="https://www.facebook.com/groups/1802881706649541/?ref=share"
                 target="_blank"
                 rel="noopener noreferrer"
-                class="text-blue-500 hover:underline"
+                class="text-blue-500 hover:underline cursor-pointer"
               >
-                https://www.facebook.com/groups/1802881706649541/?ref=share
+                انضم إلى مجموعتنا على Facebook
               </a>
             </p>
           </div>

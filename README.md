@@ -15,25 +15,29 @@ This is **New App**, an application that allows users to access our technical in
 
 2. **View Communication Links:**
 
-   - On the home page, the user sees a section titled "تبادل المعلومات التقنية" (Technical Information Exchange) containing links to our platforms.
+   - On the home page, the user sees a section titled "تبادل المعلومات التقنية" (Technical Information Exchange) containing labeled links to our platforms.
 
 3. **Navigate to the Desired Platform:**
 
-   - The user can click on any of the available links to navigate to our channels and groups:
-     - **Our Telegram Channel**
-       - [Visit our Telegram channel](https://t.me/echangetec)
-     - **Our Telegram Group**
-       - [Join our Telegram group](https://t.me/Youness_be)
-     - **Our YouTube Channel**
-       - [Subscribe to our YouTube channel](https://www.youtube.com/@echangetec)
-     - **Our Facebook Group**
-       - [Join our Facebook group](https://www.facebook.com/groups/1802881706649541/?ref=share)
+   - The user can click on any of the labeled links to navigate to our channels and groups:
+     - **Join our Telegram Channel**
+       - By clicking **"انضم إلى قناتنا على Telegram"**, the user is redirected to our Telegram channel.
+     - **Join our Telegram Group**
+       - By clicking **"انضم إلى مجموعتنا على Telegram"**, the user is redirected to our Telegram group.
+     - **Subscribe to our YouTube Channel**
+       - By clicking **"اشترك في قناتنا على YouTube"**, the user is redirected to our YouTube channel.
+     - **Join our Facebook Group**
+       - By clicking **"انضم إلى مجموعتنا على Facebook"**, the user is redirected to our Facebook group.
 
 4. **Interact with Platforms:**
 
    - After clicking the link, the user is directed to the selected platform where they can subscribe, join, or interact as desired.
 
 ## Features
+
+- **Labeled Links:**
+
+  - Links are now labeled for a better user experience, making navigation more intuitive.
 
 - **No Sign-In Required:**
 
